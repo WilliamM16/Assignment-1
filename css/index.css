@@ -1,12 +1,12 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: #f5daf0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fa0000;
   text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: hotpink;
+  color: rgb(65, 10, 153);
   background-color: lavender;
   padding: 10px;
   border-radius: 25px;
@@ -21,9 +21,9 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 50%;
   border-radius: 15px;
-
+  padding: 30px;
 
 }
 
