@@ -1,13 +1,36 @@
 body {
   font-family: Courier New;
-  color: blue;
+  color: violet;
   text-align: center;
+  background-color: steelblue;
 }
 
 a {
   text-decoration: none;
-  color: hotpink;
-  background-color: lavender;
+  color: black;
+  background-color: slateblue;
+  padding: 10px;
+}
+
+.caption{
+  color:orange;
+  padding: 20px;
+}
+
+.caption2{
+  color:skyblue;
+  padding: 20px;
+}
+
+td{
+  border:1px solid black;
+}
+
+.table1{
+  color:red;
+  margin-left: auto;
+  margin-right: auto;
+  border:1px solid black;
   padding: 10px;
 }
 
