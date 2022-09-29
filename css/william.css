@@ -1,17 +1,25 @@
 body {
   font-family: Courier New;
-  background-color: salmon;
+  background-color: rgb(4, 117, 0);
   text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: hotpink;
-  background-color: lavender;
+  color: rgb(255, 0, 0);
+  background-color: rgb(32, 0, 148);
   padding: 10px;
 }
 
-#fav-num {
-	color: hotpink;
-	background-color: white;
+#fav-starter {
+	color: rgb(0, 74, 170);
+	background-color: rgb(5, 255, 80);
+}
+
+.caption{
+  color:white;
+}
+
+#para{
+  color:white;
 }
